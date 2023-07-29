@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @six-code
-- 👀 I’m interested in python
+- 👀 I’m interested in python , data analysis
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me six-code@gmail.com
+- 📫 How to reach me canberkaslan06@hotmail.com  
 
 <!---
 six-code/six-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
